@@ -13,3 +13,4 @@ int main(void) {
     printf("%6.2f\n", Result);
     return 0;
 }
+// Изменено в лабе 12
